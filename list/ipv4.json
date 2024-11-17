@@ -31,93 +31,83 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.151.91",
-        "latency": 202,
+        "ip": "172.67.91.95",
+        "latency": 203,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 780,
-        "time": "2024-11-16 23:08:11"
+        "speed": 870,
+        "time": "2024-11-16 23:33:24"
     },
     {
         "colo": "Default",
-        "ip": "162.159.138.177",
-        "latency": 238,
+        "ip": "172.67.190.205",
+        "latency": 204,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 750,
-        "time": "2024-11-16 22:58:17"
+        "speed": 745,
+        "time": "2024-11-16 23:27:35"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.184.68",
-        "latency": 233,
+        "ip": "172.67.188.111",
+        "latency": 222,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 625,
-        "time": "2024-11-16 23:19:44"
-    },
-    {
-        "colo": "IAD",
-        "ip": "104.20.84.103",
-        "latency": 201,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-16 23:13:38"
+        "speed": 645,
+        "time": "2024-11-16 23:39:44"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.222.11",
-        "latency": 195,
+        "ip": "172.67.220.141",
+        "latency": 231,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 590,
+        "time": "2024-11-16 23:36:20"
+    },
+    {
+        "colo": "LAX",
+        "ip": "162.159.240.174",
+        "latency": 159,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 305,
-        "time": "2024-11-16 23:15:10"
+        "speed": 290,
+        "time": "2024-11-16 23:35:36"
     },
     {
-        "colo": "IAD",
-        "ip": "104.20.40.128",
-        "latency": 201,
+        "colo": "LAX",
+        "ip": "104.18.123.178",
+        "latency": 161,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
+        "node": "QYZJBGP",
         "speed": 290,
-        "time": "2024-11-16 23:13:32"
+        "time": "2024-11-16 23:35:51"
     },
     {
-        "colo": "IAD",
-        "ip": "104.24.38.220",
-        "latency": 200,
+        "colo": "HKG",
+        "ip": "172.67.25.195",
+        "latency": 158,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 290,
-        "time": "2024-11-16 23:13:26"
+        "node": "QYZJBGP",
+        "speed": 245,
+        "time": "2024-11-16 23:35:21"
     },
     {
         "colo": "NRT",
-        "ip": "172.64.135.244",
-        "latency": 57,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 2245,
-        "time": "2024-11-16 22:59:30"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.67.38.204",
-        "latency": 57,
+        "ip": "172.64.69.4",
+        "latency": 60,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
         "speed": 1520,
-        "time": "2024-11-16 23:19:30"
+        "time": "2024-11-16 23:29:30"
     },
     {
         "colo": "NRT",
@@ -130,23 +120,33 @@
         "time": "2024-11-16 23:19:31"
     },
     {
-        "colo": "NRT",
-        "ip": "162.159.242.16",
-        "latency": 55,
+        "colo": "FRA",
+        "ip": "172.67.192.126",
+        "latency": 136,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 725,
-        "time": "2024-11-16 22:49:31"
+        "speed": 590,
+        "time": "2024-11-16 23:29:32"
     },
     {
-        "colo": "CDG",
-        "ip": "172.67.232.138",
+        "colo": "FRA",
+        "ip": "172.67.163.52",
         "latency": 131,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 660,
-        "time": "2024-11-16 22:49:32"
+        "speed": 585,
+        "time": "2024-11-16 23:39:32"
+    },
+    {
+        "colo": "NRT",
+        "ip": "172.67.20.77",
+        "latency": 55,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 290,
+        "time": "2024-11-16 23:39:34"
     }
 ]
