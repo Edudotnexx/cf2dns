@@ -1,6 +1,16 @@
 [
     {
         "colo": "Default",
+        "ip": "162.159.252.91",
+        "latency": 205,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 795,
+        "time": "2024-12-13 15:48:31"
+    },
+    {
+        "colo": "Default",
         "ip": "172.67.56.234",
         "latency": 217,
         "line": "CM",
@@ -40,16 +50,6 @@
         "time": "2024-12-13 15:36:48"
     },
     {
-        "colo": "Default",
-        "ip": "162.159.246.244",
-        "latency": 214,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 260,
-        "time": "2024-12-13 15:31:02"
-    },
-    {
         "colo": "LHR",
         "ip": "172.67.216.151",
         "latency": 183,
@@ -60,24 +60,14 @@
         "time": "2024-12-13 15:39:56"
     },
     {
-        "colo": "LHR",
-        "ip": "172.67.183.183",
-        "latency": 232,
+        "colo": "SJC",
+        "ip": "162.159.194.164",
+        "latency": 144,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 745,
-        "time": "2024-12-13 15:39:56"
-    },
-    {
-        "colo": "HKG",
-        "ip": "172.67.23.244",
-        "latency": 173,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 705,
-        "time": "2024-12-13 15:39:56"
+        "speed": 565,
+        "time": "2024-12-13 15:49:57"
     },
     {
         "colo": "SJC",
@@ -88,6 +78,16 @@
         "node": "QIXJSCT",
         "speed": 310,
         "time": "2024-12-13 15:43:36"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.18.189.189",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 280,
+        "time": "2024-12-13 15:45:09"
     },
     {
         "colo": "SJC",
@@ -120,14 +120,14 @@
         "time": "2024-12-13 15:25:42"
     },
     {
-        "colo": "SJC",
-        "ip": "104.19.174.37",
-        "latency": 174,
+        "colo": "HKG",
+        "ip": "104.20.23.246",
+        "latency": 123,
         "line": "CU",
         "loss": 0,
         "node": "EJIA_CU",
-        "speed": 290,
-        "time": "2024-12-13 15:25:36"
+        "speed": 305,
+        "time": "2024-12-13 15:45:21"
     },
     {
         "colo": "HKG",
