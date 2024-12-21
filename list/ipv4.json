@@ -1,6 +1,36 @@
 [
     {
         "colo": "Default",
+        "ip": "172.64.164.69",
+        "latency": 203,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 895,
+        "time": "2024-12-20 21:18:27"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.47.209",
+        "latency": 199,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 805,
+        "time": "2024-12-20 21:24:15"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.122.160",
+        "latency": 199,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 775,
+        "time": "2024-12-20 21:24:15"
+    },
+    {
+        "colo": "Default",
         "ip": "172.67.165.148",
         "latency": 195,
         "line": "CM",
@@ -11,43 +41,23 @@
     },
     {
         "colo": "Default",
-        "ip": "172.64.95.17",
-        "latency": 205,
+        "ip": "172.67.18.254",
+        "latency": 216,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 775,
-        "time": "2024-12-20 21:12:41"
+        "speed": 525,
+        "time": "2024-12-20 21:18:28"
     },
     {
-        "colo": "Default",
-        "ip": "141.101.113.35",
-        "latency": 202,
-        "line": "CM",
+        "colo": "SJC",
+        "ip": "172.64.108.205",
+        "latency": 194,
+        "line": "CT",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 775,
-        "time": "2024-12-20 21:07:00"
-    },
-    {
-        "colo": "Default",
-        "ip": "141.101.114.171",
-        "latency": 205,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 570,
-        "time": "2024-12-20 21:07:01"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.89.164",
-        "latency": 205,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 500,
-        "time": "2024-12-20 21:07:01"
+        "node": "SDO_ZJCT",
+        "speed": 975,
+        "time": "2024-12-20 21:18:16"
     },
     {
         "colo": "SJC",
@@ -61,43 +71,43 @@
     },
     {
         "colo": "SJC",
-        "ip": "172.64.128.140",
-        "latency": 167,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 775,
-        "time": "2024-12-20 21:10:01"
-    },
-    {
-        "colo": "Default",
-        "ip": "162.159.195.108",
-        "latency": 169,
+        "ip": "172.64.85.117",
+        "latency": 241,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 625,
-        "time": "2024-12-20 21:05:01"
+        "speed": 725,
+        "time": "2024-12-20 21:24:55"
     },
     {
-        "colo": "Default",
-        "ip": "162.159.193.155",
-        "latency": 181,
+        "colo": "HKG",
+        "ip": "172.67.30.97",
+        "latency": 165,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 330,
-        "time": "2024-12-20 21:00:05"
+        "node": "SDO_ZJCT",
+        "speed": 510,
+        "time": "2024-12-20 21:14:59"
     },
     {
         "colo": "SJC",
-        "ip": "162.159.138.167",
-        "latency": 137,
+        "ip": "104.19.83.36",
+        "latency": 144,
         "line": "CT",
         "loss": 0,
         "node": "QIXJSCT",
-        "speed": 265,
-        "time": "2024-12-20 21:03:26"
+        "speed": 305,
+        "time": "2024-12-20 21:23:40"
+    },
+    {
+        "colo": "NRT",
+        "ip": "198.41.211.228",
+        "latency": 58,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1500,
+        "time": "2024-12-20 21:20:00"
     },
     {
         "colo": "NRT",
@@ -128,16 +138,6 @@
         "node": "EJIA_CU",
         "speed": 310,
         "time": "2024-12-20 21:05:32"
-    },
-    {
-        "colo": "LAX",
-        "ip": "141.101.122.71",
-        "latency": 176,
-        "line": "CU",
-        "loss": 0,
-        "node": "EJIA_CU",
-        "speed": 310,
-        "time": "2024-12-20 20:55:34"
     },
     {
         "colo": "LAX",
