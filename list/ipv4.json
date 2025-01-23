@@ -11,6 +11,26 @@
     },
     {
         "colo": "Default",
+        "ip": "172.67.159.129",
+        "latency": 163,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 775,
+        "time": "2025-01-22 15:48:09"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.30.137",
+        "latency": 216,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 725,
+        "time": "2025-01-22 15:48:09"
+    },
+    {
+        "colo": "Default",
         "ip": "162.159.138.192",
         "latency": 193,
         "line": "CM",
@@ -18,26 +38,6 @@
         "node": "51C_SDCM",
         "speed": 585,
         "time": "2025-01-22 15:42:22"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.162.104",
-        "latency": 193,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 575,
-        "time": "2025-01-22 15:36:43"
-    },
-    {
-        "colo": "HKG",
-        "ip": "198.41.212.47",
-        "latency": 147,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 310,
-        "time": "2025-01-22 15:41:43"
     },
     {
         "colo": "HKG",
@@ -51,23 +51,13 @@
     },
     {
         "colo": "LHR",
-        "ip": "172.67.163.18",
-        "latency": 234,
+        "ip": "172.67.152.175",
+        "latency": 209,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 740,
-        "time": "2025-01-22 15:40:17"
-    },
-    {
-        "colo": "SJC",
-        "ip": "141.101.123.212",
-        "latency": 141,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 315,
-        "time": "2025-01-22 15:43:21"
+        "speed": 620,
+        "time": "2025-01-22 15:50:17"
     },
     {
         "colo": "LAX",
@@ -88,6 +78,16 @@
         "node": "QIXJSCT",
         "speed": 290,
         "time": "2025-01-22 15:43:27"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.138.181",
+        "latency": 163,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 265,
+        "time": "2025-01-22 15:46:08"
     },
     {
         "colo": "LAX",
