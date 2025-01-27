@@ -1,13 +1,23 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.78.111",
-        "latency": 195,
+        "ip": "172.64.199.228",
+        "latency": 222,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 775,
-        "time": "2025-01-26 15:23:07"
+        "speed": 1320,
+        "time": "2025-01-26 15:46:00"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.176.211",
+        "latency": 226,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 795,
+        "time": "2025-01-26 15:46:01"
     },
     {
         "colo": "Default",
@@ -18,16 +28,6 @@
         "node": "51C_SDCM",
         "speed": 750,
         "time": "2025-01-26 15:40:15"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.42.122",
-        "latency": 172,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 700,
-        "time": "2025-01-26 15:28:46"
     },
     {
         "colo": "Default",
@@ -48,16 +48,6 @@
         "node": "51C_SDCM",
         "speed": 490,
         "time": "2025-01-26 15:40:16"
-    },
-    {
-        "colo": "ORD",
-        "ip": "172.64.170.55",
-        "latency": 211,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 825,
-        "time": "2025-01-26 15:39:26"
     },
     {
         "colo": "LHR",
@@ -100,14 +90,24 @@
         "time": "2025-01-26 15:43:30"
     },
     {
-        "colo": "FRA",
-        "ip": "172.64.198.232",
-        "latency": 129,
+        "colo": "LHR",
+        "ip": "104.21.106.166",
+        "latency": 224,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 160,
+        "time": "2025-01-26 15:45:57"
+    },
+    {
+        "colo": "NRT",
+        "ip": "162.159.249.141",
+        "latency": 213,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 685,
-        "time": "2025-01-26 14:30:35"
+        "speed": 720,
+        "time": "2025-01-26 15:50:35"
     },
     {
         "colo": "FRA",
