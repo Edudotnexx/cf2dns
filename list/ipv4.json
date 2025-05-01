@@ -1,6 +1,16 @@
 [
     {
         "colo": "Default",
+        "ip": "172.67.76.220",
+        "latency": 196,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 865,
+        "time": "2025-05-01 01:01:47"
+    },
+    {
+        "colo": "Default",
         "ip": "141.101.115.104",
         "latency": 234,
         "line": "CM",
@@ -18,16 +28,6 @@
         "node": "51C_SDCM",
         "speed": 750,
         "time": "2025-05-01 00:51:17"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.87.110",
-        "latency": 222,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 750,
-        "time": "2025-05-01 00:37:46"
     },
     {
         "colo": "Default",
@@ -51,63 +51,53 @@
     },
     {
         "colo": "FRA",
-        "ip": "172.67.121.115",
-        "latency": 165,
+        "ip": "198.41.211.222",
+        "latency": 161,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 720,
-        "time": "2025-05-01 00:52:10"
+        "speed": 905,
+        "time": "2025-05-01 01:12:56"
     },
     {
-        "colo": "AMS",
-        "ip": "104.21.21.43",
-        "latency": 153,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 305,
-        "time": "2025-05-01 00:53:38"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.18.1.232",
-        "latency": 142,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-05-01 00:55:28"
-    },
-    {
-        "colo": "AMS",
-        "ip": "172.67.223.85",
-        "latency": 189,
+        "colo": "PDX",
+        "ip": "172.64.93.210",
+        "latency": 219,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 275,
-        "time": "2025-05-01 00:51:06"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.18.63.164",
-        "latency": 133,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 210,
-        "time": "2025-05-01 00:53:19"
+        "speed": 905,
+        "time": "2025-05-01 01:11:03"
     },
     {
         "colo": "FRA",
-        "ip": "172.67.209.21",
-        "latency": 130,
-        "line": "CU",
+        "ip": "172.67.86.243",
+        "latency": 233,
+        "line": "CT",
         "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1555,
-        "time": "2025-05-01 00:29:21"
+        "node": "SDO_ZJCT",
+        "speed": 860,
+        "time": "2025-05-01 01:12:56"
+    },
+    {
+        "colo": "FRA",
+        "ip": "172.67.59.195",
+        "latency": 201,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 605,
+        "time": "2025-05-01 01:11:04"
+    },
+    {
+        "colo": "AMS",
+        "ip": "172.67.245.76",
+        "latency": 163,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 340,
+        "time": "2025-05-01 01:11:06"
     },
     {
         "colo": "FRA",
@@ -130,23 +120,33 @@
         "time": "2025-05-01 00:49:20"
     },
     {
-        "colo": "FRA",
-        "ip": "172.67.151.55",
-        "latency": 130,
+        "colo": "HKG",
+        "ip": "162.159.248.210",
+        "latency": 38,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 725,
-        "time": "2025-05-01 00:39:22"
+        "speed": 1435,
+        "time": "2025-05-01 00:59:21"
     },
     {
         "colo": "HKG",
-        "ip": "172.67.109.37",
-        "latency": 39,
+        "ip": "172.67.61.79",
+        "latency": 43,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 720,
-        "time": "2025-05-01 00:39:21"
+        "speed": 800,
+        "time": "2025-05-01 01:09:21"
+    },
+    {
+        "colo": "HKG",
+        "ip": "172.67.16.208",
+        "latency": 45,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 520,
+        "time": "2025-05-01 01:09:22"
     }
 ]
